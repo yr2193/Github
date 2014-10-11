@@ -1,7 +1,7 @@
 =================
-Getting and Cleaning Data Course Project
-
 Johns Hopkins Bloomberg School of Public Health
+
+Getting and Cleaning Data Course Project
 =================
 # Introcuction
     The purpose of this project is to create two clean data sets, one contains both training and test data of the mean values and standard deviations for each observation obtained from experimental research on six activities( WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) performed by a group of 30 volunteers. The other data set further averages the experimental values for each variable thus provides the average data for individual’s every activity.  
